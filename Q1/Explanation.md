@@ -1,10 +1,5 @@
 # Question 1 – Shell Script: analyze.sh
 
-## Objective
-The objective of this question is to create a shell script that accepts exactly one command-line argument and performs different actions based on whether the argument is a file or a directory. The script also handles invalid argument counts and non-existent paths by displaying appropriate error messages.
-
----
-
 ## Script Creation
 A shell script named `analyze.sh` was created using a text editor. The script begins with a shebang (`#!/bin/bash`) to specify the Bash shell for execution.
 
