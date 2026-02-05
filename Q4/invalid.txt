@@ -1,0 +1,9 @@
+john_doe@gmail.com
+user@domain.co
+user123@site.in
+user!23@gmail.com
+user.name@gmail.com
+user123@gmail
+user123@gmail.c
+user123@123.com
+test@domaincom

@@ -1,0 +1,9 @@
+123user@site.com
+admin99@google.com
+alpha1@sample.com
+hello2024@world.com
+ram123@gmail.com
+test123@company.com
+user@domain.com
+user01@yahoo.com
+USER123@gmail.com
