@@ -1,0 +1,3 @@
+# Validate Marks
+
+This shell script reads student records from marks.txt line by line(individual entry) using a while loop. It checks each subject’s marks against the passing mark(33) using conditional statements and counts the number of failed subjects. Based on the failure count, the script identifies students who failed in exactly one subject and those who passed all subjects, while also maintaining and printing the total count for both categories.
