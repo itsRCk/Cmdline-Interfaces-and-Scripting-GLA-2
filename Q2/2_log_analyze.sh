@@ -39,7 +39,7 @@ else
 fi
 
 date_today=$(date +%Y-%m-%d)
-report_file="logsummary_${date_today}.txt"
+report_file="output_${date_today}.txt"
 
 {
     echo "Log Summary Report - $date_today"
