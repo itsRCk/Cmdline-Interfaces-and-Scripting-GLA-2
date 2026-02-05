@@ -1,0 +1,9 @@
+Log Summary Report - 2026-02-05
+------------------------------
+Total entries: 47
+INFO messages: 36
+WARNING messages: 7
+ERROR messages: 4
+
+Most recent ERROR:
+2025-01-12 09:25:00 ERROR Network timeout detected
